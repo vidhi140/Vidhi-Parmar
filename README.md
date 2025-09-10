@@ -1,0 +1,1 @@
+This project was developed as part of my internship assignment. The objective was to apply beginner-level data science skills to real-world datasets, practice exploratory data analysis, and generate insights that could support smarter trading strategies.
